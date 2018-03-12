@@ -1,5 +1,5 @@
 print ("welcome to judson's project")
-
+#this is judson tabor's first program
 mediatype = input("what is your media type")
 title = input("what is the title of media?")
 description = input ("type a quick description of your media")
